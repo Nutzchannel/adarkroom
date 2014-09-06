@@ -2410,118 +2410,118 @@ msgstr "いくつかの所持品は壁に休む。"
 
 #: ../../script/events/setpieces.js:2571
 msgid "the stench of rot and death fills the operating theatres."
-msgstr "腐烂和死亡的气息弥漫在手术室."
+msgstr "腐敗と死の悪臭は、手術室を埋める。"
 
 #: ../../script/events/setpieces.js:2572
 msgid "a few items are scattered on the ground."
-msgstr "有一些东西散落在地上."
+msgstr "いくつかの項目は、地面に散らばっている。"
 
 #: ../../script/events/setpieces.js:2573
 msgid "there is nothing else here."
-msgstr "没有其他东西了."
+msgstr "ここで他には何もありません。"
 
 #: ../../script/events/setpieces.js:2611
 msgid "a pristine medicine cabinet at the end of a hallway."
-msgstr "一个朴素的药箱在走廊尽头."
+msgstr "廊下の終わりに自然のままの薬箱。"
 
 #: ../../script/events/setpieces.js:2612
 msgid "the rest of the hospital is empty."
-msgstr "医院里面已经没什么了."
+msgstr "病院の残りの部分は空である。"
 
 #: ../../script/events/setpieces.js:2645
 msgid "someone had been stockpiling loot here."
-msgstr "肯定有人一直储备东西在这里."
+msgstr "誰かがここに戦利品を備蓄していた。"
 
 #: ../../script/events/setpieces.js:2693
 msgid "the tentacular horror is defeated."
-msgstr "恐怖触手被击败了."
+msgstr "触手の恐怖が敗北している。"
 
 #: ../../script/events/setpieces.js:2694
 msgid "inside, the remains of its victims are everywhere."
-msgstr "里面到处都是遇难者的尸体."
+msgstr "内部には、その犠牲者の遺骨があふれている。"
 
 #: ../../script/events/setpieces.js:2737
 msgid "the warped man lies dead."
-msgstr "扭曲的男人死了."
+msgstr "ゆがんだ男は死んである。"
 
 #: ../../script/events/setpieces.js:2738
 msgid "the operating theatre has a lot of curious equipment."
-msgstr "手术室有很多奇怪的设备."
+msgstr "手術室は、好奇心の機器をたくさん持っている。"
 
 #: ../../script/events/setpieces.js:2781
 msgid "the old man had a small cache of interesting items."
-msgstr "这个老人有一些有趣的小收藏."
+msgstr "老人は興味深いアイテムの小さなキャッシュを持っていた。"
 
 #: ../../script/events/setpieces.js:2824
 msgid "An Old House"
-msgstr "一所老房子"
+msgstr "オールドハウス"
 
 #: ../../script/events/setpieces.js:2828
 msgid "an old house remains here, once white siding yellowed and peeling."
-msgstr "一所老房子依旧留存着, 白色的外墙泛黄脱落."
+msgstr "古い家は白い羽目板一度黄変や剥離、ここに残る。"
 
 #: ../../script/events/setpieces.js:2829
 msgid "the door hangs open."
-msgstr "门开着."
+msgstr "ドアが開いてハングアップします。"
 
 #: ../../script/events/setpieces.js:2831
 msgid "the remains of an old house stand as a monument to simpler times"
-msgstr "老房子好比是一座对时代的纪念碑一般"
+msgstr "古い家の残骸は、より単純な時間の記念碑として立っている"
 
 #: ../../script/events/setpieces.js:2845
 msgid "the house is abandoned, but not yet picked over."
-msgstr "房子虽然被废弃了, 但是还有一些东西."
+msgstr "家は放棄されたが、まだオーバーピックアップされていません。"
 
 #: ../../script/events/setpieces.js:2846
 msgid "still a few drops of water in the old well."
-msgstr "水井里面依旧有水."
+msgstr "まだいくつかの古い中の水の滴よく。"
 
 #: ../../script/events/setpieces.js:2879
 msgid "the house has been ransacked."
-msgstr "房子已经被洗劫一空了."
+msgstr "家は荒らされています。"
 
 #: ../../script/events/setpieces.js:2880
 msgid "but there is a cache of medicine under the floorboards."
-msgstr "但是地板下面还有一些医疗用品."
+msgstr "しかし床板の下で医学のキャッシュがあります。"
 
 #: ../../script/events/setpieces.js:2907
 msgid "a man charges down the hall, a rusty blade in his hand"
-msgstr "一个男人占据着大厅, 手持大刀"
+msgstr "男はホール、彼の手に錆びた刃を下に充電します。"
 
 #: ../../script/events/setpieces.js:2938
 msgid "A Forgotten Battlefield"
-msgstr "遗落战场"
+msgstr "忘れられた戦場"
 
 #: ../../script/events/setpieces.js:2942
 msgid "a battle was fought here, long ago."
-msgstr "很久以前的大战."
+msgstr "戦いはずっと前に、ここで戦った。"
 
 #: ../../script/events/setpieces.js:2943
 msgid ""
 "battered technology from both sides lays dormant on the blasted landscape."
-msgstr "双方的高科技造成了如此壮观的景象."
+msgstr "両側からボロボロの技術は、ブラスト景観上の休眠産む。"
 
 #: ../../script/events/setpieces.js:2990
 msgid "A Huge Borehole"
-msgstr "一个巨坑"
+msgstr "巨大なボアホール"
 
 #: ../../script/events/setpieces.js:2994
 msgid "a huge hole is cut deep into the earth, evidence of the past harvest."
-msgstr "一个巨大的深坑切入地表."
+msgstr "巨大な穴は地中深く、過去の収穫の証拠に切断される。"
 
 #: ../../script/events/setpieces.js:2995
 msgid "they took what they came for, and left."
-msgstr "他们拿走所需,拍拍屁股走了."
+msgstr "彼らは何のために来ました、左。"
 
 #: ../../script/events/setpieces.js:2996
 msgid ""
 "castoff from the mammoth drills can still be found by the edges of the "
 "precipice."
-msgstr "通过悬崖边依旧能看清庞大的废弃场."
+msgstr "マンモスドリルからキャストオフはまだ絶壁の縁により求めることができる。"
 
 #: ../../script/events/setpieces.js:3018
 msgid "A Crashed Ship"
-msgstr "破损的飞船"
+msgstr "クラッシュ船"
 
 #: ../../script/events/setpieces.js:3027
 msgid ""
