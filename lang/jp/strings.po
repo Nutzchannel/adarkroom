@@ -2170,243 +2170,243 @@ msgstr "空の廊下。"
 
 #: ../../script/events/setpieces.js:1465
 msgid "the place has been swept clean by scavengers."
-msgstr "清道夫已经把这搜刮干净了."
+msgstr "場所はスカベンジャークリーンスイープされています。"
 
 #: ../../script/events/setpieces.js:1479
 msgid "an old man bursts through a door, wielding a scalpel."
-msgstr "一个老人挥舞着手术刀冲了过来."
+msgstr "老人はメスを振り回す、ドアを通ってバースト。"
 
 #: ../../script/events/setpieces.js:1516
 msgid "a thug is waiting on the other side of the wall."
-msgstr "一个暴徒等在另外一边墙那."
+msgstr "刺客は、壁の反対側に待機しています。"
 
 #: ../../script/events/setpieces.js:1554
 msgid "a snarling beast jumps out from behind a car."
-msgstr "一头咆哮着的野兽从车后面跳出来."
+msgstr "うなる獣が車の後ろから飛び出す。"
 
 #: ../../script/events/setpieces.js:1593
 msgid "street above the subway platform is blown away."
-msgstr "地铁站上方的街道已经被摧毁了."
+msgstr "地下鉄のプラットフォーム上の通りが吹き飛ばされている。"
 
 #: ../../script/events/setpieces.js:1594
 msgid "lets some light down into the dusty haze."
-msgstr "一些光线照射到阴霾的尘土中."
+msgstr "いくつかの光ダウンほこりヘイズにすることができます。"
 
 #: ../../script/events/setpieces.js:1595
 msgid "a sound comes from the tunnel, just ahead."
-msgstr "前方传来一些声响."
+msgstr "音はすぐ前、トンネルから来ている。"
 
 #: ../../script/events/setpieces.js:1612
 msgid "looks like a camp of sorts up ahead."
-msgstr "好像前方有一个营地."
+msgstr "先に一種のキャンプのように見えます。"
 
 #: ../../script/events/setpieces.js:1613
 msgid "rusted chainlink is pulled across an alleyway."
-msgstr "生锈的链条东拉西扯的."
+msgstr "錆びたチェーンリンクは、路地を横切って引かれる。"
 
 #: ../../script/events/setpieces.js:1614
 msgid "fires burn in the courtyard beyond."
-msgstr "大火灾庭院前燃烧."
+msgstr "火災は越えて中庭で燃やす。"
 
 #: ../../script/events/setpieces.js:1630
 msgid "more voices can be heard ahead."
-msgstr "前方传来更多的声响."
+msgstr "より多くの声が先に聞くことができる。"
 
 #: ../../script/events/setpieces.js:1631
 msgid "they must be here for a reason."
-msgstr "肯定有什么事情发生了."
+msgstr "彼らは理由がここにあることが必要です。"
 
 #: ../../script/events/setpieces.js:1647
 msgid "the sound of gunfire carries on the wind."
-msgstr "风中传来枪响."
+msgstr "銃声の音が風に乗って運ぶ。"
 
 #: ../../script/events/setpieces.js:1648
 msgid "the street ahead glows with firelight."
-msgstr "前方街道闪光连连."
+msgstr "通りは先に火明かりを点灯します。"
 
 #: ../../script/events/setpieces.js:1664
 msgid "more squatters are crowding around now."
-msgstr "越来越多的人挤过来了."
+msgstr "より多くの不法占拠者は現在約混雑している。"
 
 #: ../../script/events/setpieces.js:1665
 msgid "someone throws a stone."
-msgstr "有人扔出一块石头."
+msgstr "誰かが石を投げる。"
 
 #: ../../script/events/setpieces.js:1681
 msgid "an improvised shop is set up on the sidewalk."
-msgstr "一个简易车间被安置在路边."
+msgstr "即興店は歩道上に設定されている。"
 
 #: ../../script/events/setpieces.js:1682
 msgid "the owner stands by, stoic."
-msgstr "店主坚强的站在边上."
+msgstr "所有者はストイック、待機する。"
 
 #: ../../script/events/setpieces.js:1725
 msgid "strips of meat hang drying by the side of the street."
-msgstr "很多肉条晒在路边."
+msgstr "肉の細片は、道路の脇に乾燥を掛ける。"
 
 #: ../../script/events/setpieces.js:1726
 msgid "the people back away, avoiding eye contact."
-msgstr "人们纷纷后退, 躲闪着眼光."
+msgstr "人は戻って離れて、アイコンタクトを避ける。"
 
 #: ../../script/events/setpieces.js:1749
 msgid "someone has locked and barricaded the door to this operating theatre."
-msgstr "有人反锁了手术室的门."
+msgstr "誰かがロックされ、この開口劇場への扉をバリケードしています。"
 
 #: ../../script/events/setpieces.js:1764
 msgid "a tribe of elderly squatters is camped out in this ward."
-msgstr "老人们的蜗居就在这间病房."
+msgstr "高齢者不法占拠者の部族は、この病棟で野営されています。"
 
 #: ../../script/events/setpieces.js:1803
 msgid "a pack of lizards rounds the corner."
-msgstr "一群蜥蜴在角落里."
+msgstr "トカゲのパックは、コーナーを丸めます。"
 
 #: ../../script/events/setpieces.js:1843
 msgid "strips of meat are hung up to dry in this ward."
-msgstr "肉条挂在房间里面风干."
+msgstr "肉のストリップは、この病棟にハングアップしている。"
 
 #: ../../script/events/setpieces.js:1865
 msgid "a large bird nests at the top of the stairs."
-msgstr "楼梯尽头有一个巨大的鸟巢."
+msgstr "大型の鳥は、階段の上にかかっている。"
 
 #: ../../script/events/setpieces.js:1894
 msgid "the debris is denser here."
-msgstr "这里碎片密布."
+msgstr "破片はより緻密こちらです。"
 
 #: ../../script/events/setpieces.js:1895
 msgid "maybe some useful stuff in the rubble."
-msgstr "可能在碎片中会有一些有用的东西."
+msgstr "多分瓦礫におけるいくつかの有用なもの。"
 
 #: ../../script/events/setpieces.js:1932
 msgid "a swarm of rats rushes up the tunnel."
-msgstr "一大群老鼠冲入隧道."
+msgstr "ラットの群れは、トンネルを突入。"
 
 #: ../../script/events/setpieces.js:1966
 msgid "a large man attacks, waving a bayonet."
-msgstr "一个高大的男人挥舞着刺刀进行攻击."
+msgstr "大の男の攻撃は、銃剣を振って。"
 
 #: ../../script/events/setpieces.js:1999
 msgid "a second soldier opens fire."
-msgstr "第二个士兵开火了."
+msgstr "第二の兵士が火を開きます。"
 
 #: ../../script/events/setpieces.js:2038
 msgid "a masked soldier rounds the corner, gun drawn"
-msgstr "一个蒙面士兵持枪站在角落"
+msgstr "マスクされた兵士は、コーナーは、銃が描かラウンド"
 
 #: ../../script/events/setpieces.js:2077
 msgid "the crowd surges forward."
-msgstr "人群涌动."
+msgstr "群衆は、前方サージ。"
 
 #: ../../script/events/setpieces.js:2111
 msgid "a youth lashes out with a tree branch."
-msgstr "一个年轻小伙拿了根树枝就跳出来了."
+msgstr "若者は木の枝を用いてまつげ。"
 
 #: ../../script/events/setpieces.js:2144
 msgid "a squatter stands firmly in the doorway of a small hut."
-msgstr "有个人坚守在小木屋的门口."
+msgstr "不法占拠は、小さな小屋の戸口にしっかり立っている。"
 
 #: ../../script/events/setpieces.js:2177
 msgid "behind the door, a deformed figure awakes and attacks."
-msgstr "在门后的一个畸形人进行攻击."
+msgstr "ドアの後ろに、変形した図は、目覚めや攻撃。."
 
 #: ../../script/events/setpieces.js:2216
 msgid "as soon as the door is open a little bit, hundreds of tentacles erupt."
-msgstr "门只要开了一点, 几百个触手就涌过来."
+msgstr "とすぐにドアが少し開いているように、触手の何百もの噴火。"
 
 #: ../../script/events/setpieces.js:2242
 msgid "bird must have liked shiney things."
-msgstr "鸟儿都喜欢闪亮的东西."
+msgstr "鳥は光沢のあるものが好きだったに違いない。"
 
 #: ../../script/events/setpieces.js:2243
 msgid "some good stuff woven into its nest."
-msgstr "它们的巢里面经常有好东西."
+msgstr "いくつかの良いものは、その巣に織り込ま。"
 
 #: ../../script/events/setpieces.js:2276
 msgid "not much here."
-msgstr "没什么东西了."
+msgstr "ここではあまりない。"
 
 #: ../../script/events/setpieces.js:2277
 msgid "scavengers must have gotten to this place already."
-msgstr "清道夫已经来过这里了."
+msgstr "スカベンジャーは既にこの場所に得ている必要があります。"
 
 #: ../../script/events/setpieces.js:2305
 msgid "the tunnel opens up at another platform."
-msgstr "隧道通向一个平台."
+msgstr "トンネルは、別のプラットフォームで開く。"
 
 #: ../../script/events/setpieces.js:2306
 msgid "the walls are scorched from an old battle."
-msgstr "残破的墙壁."
+msgstr "壁は古い戦いから焦げている。."
 
 #: ../../script/events/setpieces.js:2307
 msgid "bodies and supplies from both sides litter the ground."
-msgstr "肢体和供给散落在墙壁两旁."
+msgstr "ボディと両サイドのトイレ地面から供給します。"
 
 #: ../../script/events/setpieces.js:2351
 msgid "the small military outpost is well supplied."
-msgstr "小型军事哨站补给充分."
+msgstr "小さな軍事前哨はよく供給されている。"
 
 #: ../../script/events/setpieces.js:2352
 msgid ""
 "arms and munitions, relics from the war, are neatly arranged on the store-"
 "room floor."
-msgstr "武器弹药整理的排列在储藏室的地上."
+msgstr "腕や軍需品は、戦争からの遺物は、きちんと物置の床に配置されている。"
 
 #: ../../script/events/setpieces.js:2353
 msgid "just as deadly now as they were then."
-msgstr "跟以往一样的致命."
+msgstr "彼らがしていた、今と同じくらい致命的。"
 
 #: ../../script/events/setpieces.js:2386
 msgid "searching the bodies yields a few supplies."
-msgstr "搜索尸体会得到一些物资."
+msgstr "体がいくつかの物資を得る検索。"
 
 #: ../../script/events/setpieces.js:2387
 msgid "more soldiers will be on their way."
-msgstr "路上会遇到更多的尸体的."
+msgstr "より多くの兵士が彼らの方法になります。"
 
 #: ../../script/events/setpieces.js:2388
 msgid "time to move on."
-msgstr "该离开了."
+msgstr "時間は上に移動します。"
 
 #: ../../script/events/setpieces.js:2426
 msgid "the small settlement has clearly been burning a while."
-msgstr "小型定居点已经烧了一阵子了."
+msgstr "小さな集落は、明らかに、しばらくの間燃えてきた。"
 
 #: ../../script/events/setpieces.js:2427
 msgid ""
 "the bodies of the wanderers that lived here are still visible in the flames."
-msgstr "透过火焰仍可看到在燃烧的尸体."
+msgstr "ここに住んでいた放浪者の遺体はまだ炎に表示されます。"
 
 #: ../../script/events/setpieces.js:2428
 msgid "still time to rescue a few supplies."
-msgstr "还有时间取得一些物资."
+msgstr "まだ時間は数物資を救出する。"
 
 #: ../../script/events/setpieces.js:2462
 msgid ""
 "the remaining settlers flee from the violence, their belongings forgotten."
-msgstr "剩下的居民四处逃逸, 他们的物资都被抛下了."
+msgstr "残りの入植者の暴力から逃げ、自分の持ち物を忘れ。"
 
 #: ../../script/events/setpieces.js:2463
 msgid "there's not much, but some useful things can still be found."
-msgstr "还能找到一些有用的东西, 虽然不多."
+msgstr "そこにあまりありませんが、いくつかの有用なものを見つけることができます。"
 
 #: ../../script/events/setpieces.js:2496
 msgid "the young settler was carrying a canvas sack."
-msgstr "那个年轻的居民背着的是帆布包."
+msgstr "若い入植者は、キャンバス袋を運んでいた。"
 
 #: ../../script/events/setpieces.js:2497
 msgid "it contains travelling gear, and a few trinkets."
-msgstr "里面有一些旅行用品和几个装饰品"
+msgstr "それはギアを旅し、いくつかの装身具含まれています。"
 
 #: ../../script/events/setpieces.js:2498 ../../script/events/setpieces.js:2533
 msgid "there's nothing else here."
-msgstr "没别的了."
+msgstr "ここで他には何もありません。"
 
 #: ../../script/events/setpieces.js:2531
 msgid "inside the hut, a child cries."
-msgstr "小木屋内, 一个孩子在哭."
+msgstr "小屋の中に、子供が泣く。"
 
 #: ../../script/events/setpieces.js:2532
 msgid "a few belongings rest against the walls."
-msgstr "有几个行李靠在墙边."
+msgstr "いくつかの所持品は壁に休む。"
 
 #: ../../script/events/setpieces.js:2571
 msgid "the stench of rot and death fills the operating theatres."
